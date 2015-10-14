@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "summary": "To get in touch with elm and having some simple examples to play with.",
+    "repository": "https://github.com/mhoyer/elm-playground.git",
+    "license": "BSD3",
+    "source-directories": [
+        "."
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "elm-lang/core": "2.1.0 <= v < 3.0.0"
+    },
+    "elm-version": "0.15.1 <= v < 0.16.0"
+}
